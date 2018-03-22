@@ -67,10 +67,10 @@
                         <label class="left-label">前端</label><span class="label-value">jQuery.Vue等</span></li>
                     </li>
                     <li>
-                        <label class="left-label">后端</label><span class="label-value">Java多线程.Spring Boot.Spring Cloud微服务架构.Java.数据库.缓存等</span></li>
+                        <label class="left-label">后端</label><span class="label-value">Spring.Spring Cloud微服务架构.Java.数据库.缓存等</span></li>
                     </li>
                     <li>
-                        <label class="left-label">其它</label><span class="label-value">Git.Linux.项目部署.服务器运维.微信平台开发等</span></li>
+                        <label class="left-label">其它</label><span class="label-value">Git.Linux.基础服务器运维工作.微信平台开发等</span></li>
                     </li>
                 </ul>
             </div>
@@ -106,7 +106,7 @@
                     <li>
                         <h3>广州广电运通信息科技有限公司</h3>
                         <p>
-                          工作于国有上市公司广电运通，隶属基础软件一部，任职Java软件开发工程师。主要工作是各项目后端业务接口开发。
+                          工作于国有上市公司广电运通，隶属基础软件一部，任职Java软件开发工程师。参与智能POS和智慧运河后端的设计编码工作以及运河区政府公众号企业号部分模块的开发。
                         </p>
                     </li>
                     <li>
@@ -121,9 +121,6 @@
                 <h2 class="info-header"><i class="iconfont icon-trophy"></i> <span class="info-title">奖项与证书</span></h2>
                 <hr>
                 <ul class="experience-list">
-                    <li>
-                        <h3>中兴软创未来之星</h3>
-                    </li>
                     <li>
                         <h3>学院专业二等奖学金2次</h3>
                     </li>
@@ -140,7 +137,6 @@
                     工作踏实负责<br>
                     善于与人相处，团队合作<br>
                     有良好编程习惯<br>
-                    能够独立架构开发各个平台的后端工作
                 </p>
             </div>
             <div class="contact info-unit right-paragraph">
